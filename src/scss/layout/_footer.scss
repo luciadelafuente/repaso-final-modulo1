@@ -1,0 +1,9 @@
+footer{
+    margin: 15px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    border-top: solid grey;
+    @media (min-width: 768px){
+        padding-right: 20px;
+    }
+}
